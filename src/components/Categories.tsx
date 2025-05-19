@@ -6,27 +6,27 @@ import { Link } from 'react-router-dom';
 const categories = [
   {
     id: 1,
-    name: 'Wedding Dresses',
-    image: 'https://images.unsplash.com/photo-1561731102-fcfaf46c37cd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
-    link: '/dresses',
+    name: 'Rochii',
+    image: '/lovable-uploads/rochie1.jpg',
+    link: '/shop?categorie=Rochii',
   },
   {
     id: 2,
-    name: 'Accessories',
-    image: 'https://images.unsplash.com/photo-1616628188029-5609d0e88bd3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
-    link: '/accessories',
+    name: 'Accesorii',
+    image: '/lovable-uploads/tiara.jpg',
+    link: '/shop',
   },
   {
     id: 3,
-    name: 'Decorations',
-    image: 'https://images.unsplash.com/photo-1519225421980-715cb0215aed?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
-    link: '/decorations',
+    name: 'Decoratiuni',
+    image: '/lovable-uploads/aranj-masa.jpeg',
+    link: '/shop',
   },
   {
     id: 4,
-    name: 'Invitations',
-    image: 'https://images.unsplash.com/photo-1607141192903-c2c91dde9baf?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
-    link: '/invitations',
+    name: 'Invitatii',
+    image: '/lovable-uploads/set_invitatii.jpg',
+    link: '/shop',
   },
 ];
 

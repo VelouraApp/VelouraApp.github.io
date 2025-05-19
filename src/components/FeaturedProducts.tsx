@@ -12,28 +12,28 @@ const featuredProducts = [
     name: 'Rochie Elegance cu Dantelă',
     category: 'Rochii',
     price: 4599,
-    image: '/lovable-uploads/princess-lace-dress.jpg',
+    image: '/lovable-uploads/rochie1.jpg',
   },
   {
     id: 2,
     name: 'Tiară din Cristale',
     category: 'Accesorii',
     price: 899,
-    image: '/lovable-uploads/b2a37e6c-6520-4b40-a6b6-78109952ab7b.png',
+    image: '/lovable-uploads/tiara.jpg',
   },
   {
     id: 3,
     name: 'Set Verighete din Aur',
     category: 'Bijuterii',
     price: 3899,
-    image: '/lovable-uploads/gold-rings.jpg',
+    image: '/lovable-uploads/verighete.webp',
   },
   {
     id: 4,
     name: 'Set Invitații Premium',
     category: 'Invitații',
     price: 12,
-    image: '/lovable-uploads/premium-invites.jpg',
+    image: '/lovable-uploads/set_invitatii.jpg',
   },
 ];
 
